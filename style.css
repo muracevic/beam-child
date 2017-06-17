@@ -1,0 +1,44 @@
+/*
+ Theme Name:   Beam Child
+ Theme URI:    https://www.beamtheme.com/beam-child-wordpress-theme/
+ Description:  Beam Child starter Theme
+ Author:       Emir Muracevic
+ Author URI:   http://www.beamtheme.com
+ Template:     beam
+ Version:      1.0
+ Tags:         beam, child
+ Text Domain:  beam-child
+*/
+
+/*
+ * @import url("../beam/style.css");
+ * Parent Style sheet imported via function in functions.php
+ */
+
+/* =Add your customization bellow this line
+-------------------------------------------------------------- */
+
+
+/* Example: Remove borders and background colors */
+/*
+.site-header, .site-footer {
+	background-color: transparent;
+}
+
+.site-header {
+	border-bottom: none;
+}
+
+.site-content {
+	border-left: none;
+	border-right: none;
+	background: transparent;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+.site-footer {
+	border-top: none;
+}
+*/
